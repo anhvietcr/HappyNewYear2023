@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: unresolved external symbol __imp__PlaySoundW@12 referenced in function "void __cdecl sound(void)" (?sound@@YAXXZ)
+C:\Anhvietcr\Coding\C-C++\Source\MyProjects\HappyNewYear2023\Debug\HappyNewYear2023.exe : fatal error LNK1120: 1 unresolved externals
